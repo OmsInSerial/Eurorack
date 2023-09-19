@@ -1,0 +1,31 @@
+"FM Einheit, v1.2",,,,,,,
+Index,Qty,Description,Specs,Value,Package,Ref. Mouser,References
+SMT parts,,,,,,,
+"R1,R44,R45,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59",15,Resistor,"Resistor, 0.1%, Thin film",1K,0603,667-ERJ-S03F1001V,
+"R79,R80",2,Resistor,"Resistor, 0.1%, Thin film",4K7,0603,667-ERA-3ARB472V,
+"R3,R9,R11,R12,R13,R19,R20,R21",8,Resistor,"Resistor, 0.1%, Thin film",10K,0603,667-ERA-3AEB103V,
+R4,1,Resistor,"Resistor, 0.1%, Thin film",100k,0603,667-ERA-3VEB1003V,
+R22,1,Resistor,"Resistor, 0.1%, Thin film",1M,0603,603-RT0603BRD071ML,
+"C3,C4,C5,C8",4,Capacitor,Ceramic >= 16V,100n,0603,81-GCM188R71H104JA7D,
+"C1, C2",2,Capacitor,Ceramic >= 25V,10u,0805,81-GRM21BR61E106KA3L,
+"D23,D24",2,1N5819,1N5819HW-7-F,,SOD123,621-1N5819HW-F,
+"U1, U2",2,CD4051,TSSOP-16_4.4x5mm_P0.65mm,,TSSOP-16,595-CD4051BPWR,
+U3,1,CD4021,TSSOP-16_4.4x5mm_P0.65mm,,TSSOP-16,595-CD4021BPWR,
+U6,1,PCA9685PW,TSSOP-28_4.4x9.7mm_P0.65mm,,TSSOP-28,"771-PCA9685PW,118",
+D30,1,BAT54SW,BAT54SW SOT-323_SC-70,,SOT-323,511-BAT54SWFILM,
+"L1,L2",2,Ferrite_Bead,Ferrite bead,,0603,710-742792664,
+THT parts,,,,,,,
+"J_1,J_2,J_3,J_4,J_5,J_6,J_7,J_8,J_9,J_10,J_11,J_12",12,Vertical jack connector,,,PJ398SM,,https://www.thonk.co.uk/shop/thonkiconn/
+"D17,D18,D20,D21,D25,D26,D27",7,"LED 2 terminals, 3.0mm",Dual common cathod,,LED_D3.0mm-3,604-WP115VEGW,
+J0,1,Power header,"2x5 male header, 2.54mm pitch",,,710-61201021621,
+"RV1,RV2,RV3,RV4,RV5,RV6,RV7,RV8,RV9,RV10,RV11",10,Trimmer,10K lin,B10K,Song Huei Tall Trim9,,https://www.thonk.co.uk/shop/ttpots/
+RV1,1,Potentiometer,10K lin,B10K,Alpha 9mm split shaft,,https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/
+SW1,1,SW_PUSH_6mm_H7.3mm,,,,612-TL1105SP-250,
+Switch caps,1,Switch cap grey,,,,612-1R-LGR,
+Headers,4,Headers & Wire Housings for EM DPSM,WR-PHD 2.54mm 10Pin Dual Socket,,,710-61301021821,
+Spacer,2,Standoff spacer M3*10+6,,,,,
+Screw,2,M3*6 screw,,,,,
+Nut,2,M3*6 nut,,,,,
+Knob,1,Frequency knob,"Diameter (bottom) 25,6mm, diameter (top) 20mm, height 15mm, shaft diameter 6,3mm, round shaft, set-screw",,,,https://www.banzaimusic.com/Fluted-knob-FLUTEY.html
+PCB specifications,,,,,,,
+PCB FM_Einheit v 1.2,1,,,,,,
