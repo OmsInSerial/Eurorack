@@ -73,18 +73,37 @@ X - Audio output, mix of both operator (J)
 
 ## DIY
 
-FM Einheit is avalable as a DIY module as a PCB + panel set (Daisy Patch SM not included).
+FM Einheit is avalable as a DIY module as a PCB + panel set (Daisy Patch SM not included) at Tindie or Modulargrid..
 
--->PICTURE
+<img src="pics/DIY_PCB_set.jpeg" width="400">
 
 Here is the [BOM as a xlsx file](src="files/FMEinheitv1_2.xlsx") or [as a csv file](src="files/FMEinheitv1_2.csv") to source the parts with Mouser references for SMD/THT components and other providers (Thonk, Banzaï...).
 
-| Idea          | Part         |Remarque|
-| ------------- | ------------- |--------|
-|               |               |        |
+If you are not confortable with SMD soldering, you can buy the module fully build (Daisy Patch SM not included) at Tindie or Modulagrid.
 
+1. SMD parts
 
-If you are not confortable with SMD soldering, you can buy the module fully build (Daisy Patch SM not included) at tindie or at Modulagrid.
+| Placement         | Description   |Index|
+| ------------------| ------------- |--------|
+| <img src="pics/DIY_SMD_U1U2.jpeg" width="200"> | CD4051        |   U1,U2    |
+|                   | CD4021        |   U3    |
+|                   | PCA9685PW     |   U6  |
+|                   | BAT54SW       |   D30  |
+|                   | 1K resistors  |   R1,R44,R45,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59  |
+|                   | 4K7 resistors |   R79,R80  |
+|                   | 10K resistors |   R3,R9,R11,R12,R13,R19,R20,R21 |
+|                   | 100K resistor |   R4 |
+|                   | 1M resistor   |   R22 |
+|                   | 100n capacitors   | C3,C4,C5,C8 |
+|                   | Schottky Rectifiers  | L1,L2 |
+|                   | ferrite beads   | L1,L2 |
+|                   | 1u capacitors   | C1,C2 |
+
+1. THD parts
+
+| Placement         | Description   |Index|
+| ------------------| ------------- |--------|
+|                   | CD4051        |   U1,U2    |
 
 
 ## Installing the firmware
