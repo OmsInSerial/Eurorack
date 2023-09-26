@@ -85,19 +85,22 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
-| <img src="pics/DIY_SMD_U1U2.jpeg" width="200"> | CD4051        |   U1,U2    |
-|                   | CD4021        |   U3    |
-|                   | PCA9685PW     |   U6  |
-|                   | BAT54SW       |   D30  |
-|                   | 1K resistors  |   R1,R44,R45,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59  |
-|                   | 4K7 resistors |   R79,R80  |
-|                   | 10K resistors |   R3,R9,R11,R12,R13,R19,R20,R21 |
-|                   | 100K resistor |   R4 |
-|                   | 1M resistor   |   R22 |
-|                   | 100n capacitors   | C3,C4,C5,C8 |
-|                   | Schottky Rectifiers  | L1,L2 |
-|                   | ferrite beads   | L1,L2 |
-|                   | 1u capacitors   | C1,C2 |
+| <img src="pics/DIY_SMD_U1U2.jpeg" width="200">     | CD4051        |   U1,U2    |
+| <img src="pics/DIY_SMD_U3.jpeg" width="200">       | CD4021        |   U3    |
+| <img src="pics/DIY_SMD_U6.jpeg" width="200">       | PCA9685PW     |   U6  |
+| <img src="pics/DIY_SMD_D30.jpeg" width="200">      | BAT54SW       |   D30  |
+| <img src="pics/DIY_SMD_1K.jpeg" width="200">       | 1K resistors  |   R1,R44,R45,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59  |
+| <img src="pics/DIY_SMD_4K7.jpeg" width="200">      | 4K7 resistors |   R79,R80  |
+| <img src="pics/DIY_SMD_10K.jpeg" width="200">      | 10K resistors |   R3,R9,R11,R12,R13,R19,R20,R21 |
+| <img src="pics/DIY_SMD_100K.jpeg" width="200">     | 100K resistor |   R4 |
+| <img src="pics/DIY_SMD_1M.jpeg" width="200">       | 1M resistor   |   R22 |
+| <img src="pics/DIY_SMD_100n.jpeg" width="200">     | 100n capacitors   | C3,C4,C5,C8 |
+| <img src="pics/DIY_SMD_Schottky.jpeg" width="200"> | Schottky Rectifiers  | L1,L2 |
+| <img src="pics/DIY_SMD_beads.jpeg" width="200">    | ferrite beads   | L1,L2 |
+| <img src="pics/DIY_SMD_10u.jpeg" width="200">      | 10u capacitors   | C1,C2 |
+
+<img src="pics/DIY_SMD_populated.jpeg" width="200">
+
 
 1. THD parts
 
