@@ -99,14 +99,14 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 | <img src="pics/DIY_SMD_beads.jpeg" width="200">    | ferrite beads   | L1,L2 |
 | <img src="pics/DIY_SMD_10u.jpeg" width="200">      | 10u capacitors   | C1,C2 |
 
-<img src="pics/DIY_SMD_populated.jpeg" width="200">
-
-
 1. THD parts
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
-|                   | CD4051        |   U1,U2    |
+|   <img src="pics/DIY_Jack_2.jpeg" width="400">     | PJ398SM |   J_1,J_2,J_3,J_4,J_5,J_6,J_7,J_8,J_9,J_10,J_11,J_12    |
+|   <img src="pics/DIY_Pot_1_1.jpeg" width="200">  <img src="pics/DIY_Pot_2.jpeg" width="200">              | B10K, cut the orange part        |   RV1    |
+|   <img src="pics/DIY_Jack_2.jpeg" width="400">     | Trimmers, switch |   RV1,RV2,RV3,RV4,RV5,RV6,RV7,RV8,RV9,RV10,RV11,SW1,D17,D18,D20,D21,D25,D26,D27    |
+
 
 
 ## Installing the firmware
