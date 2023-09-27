@@ -111,7 +111,7 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 
 ## Installing the firmware
-Download the latest firmware [here](src=""files/FMEinheit.bin).
+Download the latest firmware [here](src="FM Einheit/files/FMEinheit.bin").
 
 You can use the [ElectroSmith web configurator page](https://electro-smith.github.io/Programmer/) to do so with a last updated Google Chrome.
 
