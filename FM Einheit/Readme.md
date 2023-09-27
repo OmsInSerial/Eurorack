@@ -111,7 +111,9 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 
 ## Installing the firmware
-Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/d59d7773702f3af148da5864a59d35fe75e9dd92/FM%20Einheit/files/FMEinheit.bin).
+Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/d59d7773702f3af148da5864a59d35fe75e9dd92/FM%20Einheit/files/FMEinheit.bin). Click on the Download raw file button.
+ <img src="pics/Download_bin.png" width="100">
+
 
 You can use the [ElectroSmith web configurator page](https://electro-smith.github.io/Programmer/) to do so with a last updated Google Chrome.
 
