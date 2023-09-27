@@ -1,4 +1,4 @@
-# VCV Rack 2 modules
+# FM Einheit eurorack module
 
 FM Einheit is a 2 operators FM synthesis module.
 With its flexible FM engine, FM Einheit allows you to patch almost every algorithm you dream about.
