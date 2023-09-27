@@ -5,9 +5,9 @@ With its flexible FM engine, FM Einheit allows you to patch almost every algorit
 
 <img src="pics/algorythms.png" width="300" height="315">
 
-Imagine you get 2 or more modules... and you are in the DX7 territory within Eurorack!
+Imagine you get 2 or more modules... and you are in some sort of DX7 territory within Eurorack!
 
-This module is developed under macOS with the help of [Erb Eurorack-Blocks](https://github.com/ohmtech-rdi/eurorack-blocks) framework + ElectroSmith Daisy Patch SubModule + Max/MSP gen~.
+This module is developed under macOS with the help of [Erb Eurorack-Blocks](https://github.com/ohmtech-rdi/eurorack-blocks) framework + ElectroSmith Daisy Patch SubModule.
 
 [Erb Eurorack-Blocks](https://github.com/ohmtech-rdi/eurorack-blocks) allows to test modules in the VCV Rack environment before going to the next stage of development.
 From idea to final hardware module, via VCV:
@@ -112,7 +112,7 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 ## Installing the firmware
 
-You can use the [ElectroSmith web configurator page](https://electro-smith.github.io/Programmer/) to do so with Google Chrome preferably.
+You can use the [ElectroSmith web configurator page](https://electro-smith.github.io/Programmer/) to do so with a last updated Google Chrome.
 
 Follow this procedure:
 
