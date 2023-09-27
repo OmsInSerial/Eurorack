@@ -99,7 +99,8 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 | <img src="pics/DIY_SMD_beads.jpeg" width="200">    | ferrite beads   | L1,L2 |
 | <img src="pics/DIY_SMD_10u.jpeg" width="200">      | 10u capacitors   | C1,C2 |
 
-1. THD parts
+2. THD parts
+   Place the THD parts on the board (except hearders and power header) as indicated below, **but do not solder anything now!**
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
@@ -108,6 +109,23 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 |   <img src="pics/DIY_Standoff.jpeg" width="400">          | Trimmers, switch, standoff |   RV1,RV2,RV3,RV4,RV5,RV6,RV7,RV8,RV9,RV10,RV11,SW1,D17,D18,D20,D21,D25,D26,D27    |
 |   <img src="pics/FM_Einheit_front_PCB.jpeg" width="400">  | Leds |   D17,D18,D20,D21,D25,D26,D27   |
 
+Once every THD is placed on the board (except hearders and power header), secure the parts with the panel and screw every nuts.
+
+<img src="pics/DIY_Finished_front.jpeg" width="400"> 
+
+Now return the board + panel and solder the THD parts.
+
+It's time to place headers. Unscrew every nuts and place the headers.
+
+<img src="pics/DIY_Headers_1.jpeg" width="200"> 
+
+Secure them with the panel and an elastic as shown here and solder them :
+
+<img src="pics/DIY_Headers_2.jpeg" width="200"> <img src="pics/DIY_Headers_3.jpeg" width="200"> <img src="pics/DIY_Headers_4.jpeg" width="200"> 
+
+Get the elastic off, place the power header and solder it.
+
+<img src="pics/DIY_Power_header_1.jpeg" width="200"> <img src="pics/DIY_Power_header_2_1.jpeg" width="200">
 
 
 ## Installing the firmware
