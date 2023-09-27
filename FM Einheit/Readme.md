@@ -100,7 +100,20 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 | <img src="pics/DIY_SMD_10u.jpeg" width="200">      | 10u capacitors   | C1,C2 |
 
 2. THD parts
-   Place the THD parts on the board (except hearders and power header) as indicated below, **but do not solder anything now!**
+   
+First, place the 4 headers.
+
+<img src="pics/DIY_Headers_1.jpeg" width="200"> 
+
+Secure them with the panel and an elastic as shown here and solder them :
+
+<img src="pics/DIY_Headers_2.jpeg" width="200"> <img src="pics/DIY_Headers_3.jpeg" width="200"> <img src="pics/DIY_Headers_4.jpeg" width="200"> 
+
+Get the elastic off, place the power header J0 and solder it.
+
+<img src="pics/DIY_Power_header_1.jpeg" width="200"> <img src="pics/DIY_Power_header_2_1.jpeg" width="200">
+
+Place the remaining THD parts on the board as indicated below, **but do not solder anything now!**
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
@@ -109,23 +122,30 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 |   <img src="pics/DIY_Standoff.jpeg" width="200">          | Trimmers, switch, standoff |  RV2,RV3,RV4,RV5,RV6,RV7,RV8,RV9,RV10,RV11<br>SW1,D17,D18,D20,D21,D25,D26,D27   |
 |   <img src="pics/FM_Einheit_front_PCB.jpeg" width="200">  | Leds |   D17,D18,D20,D21,D25,D26,D27   |
 
-Once every THD is placed on the board (except hearders and power header), secure the parts with the panel and screw every nuts.
+Once every THD is placed on the board, secure the parts with the panel and screw every nuts. Be carefull with the leds, it's very easy to bend the legs when placing the panel!
 
 <img src="pics/DIY_Finished_front.jpeg" width="400"> 
 
-Now return the board + panel and solder the THD parts.
+Now return the board + panel and solder the THD parts. and you're done!
+You should get something like that :
 
-It's time to place headers. Unscrew every nuts and place the headers.
+<img src="pics/DIY_Finished_back.jpeg" width="400">
 
-<img src="pics/DIY_Headers_1.jpeg" width="200"> 
+3. Test
 
-Secure them with the panel and an elastic as shown here and solder them :
+One thing I always do, is to check if there a short with the power circuit. Get a multimeter, turn the dial to Continuity Test mode, place one lead to the negative pins and the other one to the positives as shown below. You shouldn't ear any BIP, if you do, it means you've a short somewhere on the board ...
 
-<img src="pics/DIY_Headers_2.jpeg" width="200"> <img src="pics/DIY_Headers_3.jpeg" width="200"> <img src="pics/DIY_Headers_4.jpeg" width="200"> 
+<img src="pics/DIY_Short_test.jpeg" width="400">
 
-Get the elastic off, place the power header and solder it.
+Repeat the test between the ground pins and the positive and negative ones. You shouldn't ear anything!
 
-<img src="pics/DIY_Power_header_1.jpeg" width="200"> <img src="pics/DIY_Power_header_2_1.jpeg" width="200">
+4. Finishing
+   
+You can now put the pot knob, and plug your DPSM.
+
+<img src="pics/DIY_Finished_perspective.jpeg" width="400"> <img src="pics/DIY_Finished_back_2.jpeg" width="400">
+
+
 
 
 ## Installing the firmware
