@@ -104,10 +104,10 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
-|   <img src="pics/DIY_Jack_2.jpeg" width="400">            | PJ398SM |   J_1,J_2,J_3,J_4,J_5,J_6,J_7,J_8,J_9,J_10,J_11,J_12    |
+|   <img src="pics/DIY_Jack_2.jpeg" width="300">            | PJ398SM |   J_1,J_2,J_3,J_4,J_5,J_6,J_7,J_8,J_9,J_10,J_11,J_12    |
 |   <img src="pics/DIY_Pot_1_1.jpeg" width="100">           | B10K, cut the orange part        |   RV1    |
-|   <img src="pics/DIY_Standoff.jpeg" width="400">          | Trimmers, switch, standoff |   RV1,RV2,RV3,RV4,RV5,RV6,RV7,RV8,RV9,RV10,RV11,SW1,D17,D18,D20,D21,D25,D26,D27    |
-|   <img src="pics/FM_Einheit_front_PCB.jpeg" width="400">  | Leds |   D17,D18,D20,D21,D25,D26,D27   |
+|   <img src="pics/DIY_Standoff.jpeg" width="300">          | Trimmers, switch, standoff |   RV1,RV2,RV3,RV4,RV5,RV6,RV7,RV8,RV9,RV10,RV11,SW1,D17,D18,D20,D21,D25,D26,D27    |
+|   <img src="pics/FM_Einheit_front_PCB.jpeg" width="300">  | Leds |   D17,D18,D20,D21,D25,D26,D27   |
 
 Once every THD is placed on the board (except hearders and power header), secure the parts with the panel and screw every nuts.
 
