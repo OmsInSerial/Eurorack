@@ -85,19 +85,19 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
-| <img src="pics/DIY_SMD_U1U2.jpeg" width="200">     | CD4051        |   U1,U2    |
-| <img src="pics/DIY_SMD_U3.jpeg" width="200">       | CD4021        |   U3    |
-| <img src="pics/DIY_SMD_U6.jpeg" width="200">       | PCA9685PW     |   U6  |
-| <img src="pics/DIY_SMD_D30.jpeg" width="200">      | BAT54SW       |   D30  |
-| <img src="pics/DIY_SMD_1K.jpeg" width="200">       | 1K resistors  |   R1,R44,R45,R48,R49,R50,R51,R52,R53,R54,R55,R56,R57,R58,R59  |
-| <img src="pics/DIY_SMD_4K7.jpeg" width="200">      | 4K7 resistors |   R79,R80  |
-| <img src="pics/DIY_SMD_10K.jpeg" width="200">      | 10K resistors |   R3,R9,R11,R12,R13,R19,R20,R21 |
-| <img src="pics/DIY_SMD_100K.jpeg" width="200">     | 100K resistor |   R4 |
-| <img src="pics/DIY_SMD_1M.jpeg" width="200">       | 1M resistor   |   R22 |
-| <img src="pics/DIY_SMD_100n.jpeg" width="200">     | 100n capacitors   | C3,C4,C5,C8 |
-| <img src="pics/DIY_SMD_Schottky.jpeg" width="200"> | Schottky Rectifiers  | L1,L2 |
-| <img src="pics/DIY_SMD_beads.jpeg" width="200">    | ferrite beads   | L1,L2 |
-| <img src="pics/DIY_SMD_10u.jpeg" width="200">      | 10u capacitors   | C1,C2 |
+| <img src="pics/DIY_SMD_U1U2.jpeg" width="300">     | CD4051        |   U1,U2    |
+| <img src="pics/DIY_SMD_U3.jpeg" width="300">       | CD4021        |   U3    |
+| <img src="pics/DIY_SMD_U6.jpeg" width="300">       | PCA9685PW     |   U6  |
+| <img src="pics/DIY_SMD_D30.jpeg" width="300">      | BAT54SW       |   D30  |
+| <img src="pics/DIY_SMD_1K.jpeg" width="300">       | 1K resistors  |   R1,R44,R45,R48,R49,R50,R51,R52,R53,R54,<br>R55,R56,R57,R58,R59  |
+| <img src="pics/DIY_SMD_4K7.jpeg" width="300">      | 4K7 resistors |   R79,R80  |
+| <img src="pics/DIY_SMD_10K.jpeg" width="300">      | 10K resistors |   R3,R9,R11,R12,R13,R19,R20,R21 |
+| <img src="pics/DIY_SMD_100K.jpeg" width="300">     | 100K resistor |   R4 |
+| <img src="pics/DIY_SMD_1M.jpeg" width="300">       | 1M resistor   |   R22 |
+| <img src="pics/DIY_SMD_100n.jpeg" width="300">     | 100n capacitors   | C3,C4,C5,C8 |
+| <img src="pics/DIY_SMD_Schottky.jpeg" width="300"> | Schottky Rectifiers  | L1,L2 |
+| <img src="pics/DIY_SMD_beads.jpeg" width="300">    | ferrite beads   | L1,L2 |
+| <img src="pics/DIY_SMD_10u.jpeg" width="300">      | 10u capacitors   | C1,C2 |
 
 2. THD parts
    
@@ -117,10 +117,10 @@ Place the remaining THD parts on the board as indicated below, **but do not sold
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
-|   <img src="pics/DIY_Jack_2.jpeg" width="200">            | PJ398SM, common ground |   J_1,J_2,J_3,J_4,J_5,J_6,J_7,J_8,J_9,J_10,J_11,J_12    |
+|   <img src="pics/DIY_Jack_2.jpeg" width="400">            | PJ398SM, common ground |   J_1,J_2,J_3,J_4,J_5,J_6,J_7,J_8,J_9,J_10,J_11,J_12    |
 |   <img src="pics/DIY_Pot_1_1.jpeg" width="200">           | B10K, cut the orange part before placing the pot      |   RV1    |
-|   <img src="pics/DIY_Standoff.jpeg" width="200">          | Trimmers, switch, standoff |  RV2,RV3,RV4,RV5,RV6,RV7,RV8,RV9,RV10,RV11<br>SW1,D17,D18,D20,D21,D25,D26,D27   |
-|   <img src="pics/FM_Einheit_front_PCB.jpeg" width="200">  | Leds |   D17,D18,D20,D21,D25,D26,D27   |
+|   <img src="pics/DIY_Standoff.jpeg" width="300">          | Trimmers, switch, standoff |  RV2,RV3,RV4,RV5,RV6,RV7,RV8,RV9,RV10,RV11,<br>SW1,D17,D18,D20,D21,D25,D26,D27   |
+|   <img src="pics/FM_Einheit_front_PCB.jpeg" width="300">  | Leds |   D17,D18,D20,D21,D25,D26,D27   |
 
 Once every THD is placed on the board, secure the parts with the panel and screw every nuts. Be carefull with the leds, it's very easy to bend the legs when placing the panel!
 
@@ -135,7 +135,7 @@ You should get something like that :
 
 One thing I always do, is to check if there a short with the power circuit. Get a multimeter, turn the dial to Continuity Test mode, place one lead to the negative pins and the other one to the positives as shown below. You shouldn't ear any BIP, if you do, it means you've a short somewhere on the board ...
 
-<img src="pics/DIY_Short_test.jpeg" width="400">
+<img src="pics/DIY_Short_test.jpeg" width="600">
 
 Repeat the test between the ground pins and the positive and negative ones. You shouldn't ear anything!
 
@@ -144,9 +144,6 @@ Repeat the test between the ground pins and the positive and negative ones. You 
 You can now put the pot knob, and plug your DPSM.
 
 <img src="pics/DIY_Finished_perspective.jpeg" width="400"> <img src="pics/DIY_Finished_back_2.jpeg" width="400">
-
-
-
 
 ## Installing the firmware
 Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/d59d7773702f3af148da5864a59d35fe75e9dd92/FM%20Einheit/files/FMEinheit.bin). Click on the Download raw file button.
