@@ -77,7 +77,7 @@ FM Einheit is avalable as a DIY module as a PCB + panel set (Daisy Patch SM not 
 
 <img src="pics/DIY_PCB_set.jpeg" width="400">
 
-Here is the [BOM as a xlsx file](src="files/FMEinheitv1_2.xlsx") or [as a csv file](src="files/FMEinheitv1_2.csv") to source the parts with Mouser references for SMD/THT components and other providers (Thonk, Banzaï...).
+Here is the [BOM as a xlsx file]([src="files/FMEinheitv1_2.xlsx"](https://github.com/OmsInSerial/Eurorack/blob/4a29439237996cb19d1aecce53c95c5186f58875/FM%20Einheit/files/FMEinheitv1_2.xlsx)) or [as a csv file](https://github.com/OmsInSerial/Eurorack/blob/4a29439237996cb19d1aecce53c95c5186f58875/FM%20Einheit/files/FMEinheitv1_2.csv) to source the parts with Mouser references for SMD/THT components and other providers (Thonk, Banzaï...).
 
 If you are not confortable with SMD soldering, you can buy the module fully build (Daisy Patch SM not included) at Tindie or Modulagrid.
 
