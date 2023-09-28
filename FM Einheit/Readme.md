@@ -106,11 +106,11 @@ First, place the 4 headers.
 
 <img src="pics/DIY_Headers_1.jpeg" width="200"> 
 
-Secure them with the panel and an elastic as shown here and solder them :
+Secure them with the panel and a ruber band as shown here and solder them :
 
 <img src="pics/DIY_Headers_2.jpeg" width="200"> <img src="pics/DIY_Headers_3.jpeg" width="200"> <img src="pics/DIY_Headers_4.jpeg" width="200"> 
 
-Get the elastic off, place the power header J0 and solder it.
+Get the rubber band off, place the power header J0 and solder it.
 
 <img src="pics/DIY_Power_header_1.jpeg" width="200"> <img src="pics/DIY_Power_header_2_1.jpeg" width="200">
 
