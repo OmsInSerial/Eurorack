@@ -23,7 +23,7 @@ You can freely test FM Einheit under the VCV rack environment --> [FM Einheit VC
 <img src="pics/FMEinheitPanel.png" width="300">
 
 A - Shift button to access shifted controls. The LEDs indicate wether or not you've reached the previous control/shifted control  value. For instance, you've set the overall Harmonic (I) to 10 o'clock and plugged a CV in (N). Hold the shift button (A), the Harm LED turns red which indicates that you can't control the CV depth before reaching the previous Harm Depth CV value (which is set at noon first). Still holding the Shift button (A), turn the Harm knob (I) CCW. The closer you get to the previous value, the brighter the red LED. It turns green when the previous value is reached, then the Harm knob (I) acts as an Harm attenuverter CV depth control. The same is true when backing to Harm control when unholding the Shift button (A).
-You can check this video for a more visual explanation.
+You can check [this video](https://youtu.be/jMld3nkBkAo?t=131) for a more visual explanation.
 
 B - Frequency knob (10Hz to 11KHz).
 
