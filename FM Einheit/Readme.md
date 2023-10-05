@@ -156,7 +156,7 @@ You can use the [ElectroSmith web configurator page](https://electro-smith.githu
 
 Follow this procedure:
 
-1. Connect the Daisy to the Computer
+1. Connect the Daisy to the Computer with a USB C cable.
 
 2. Enter the system bootloader by holding the BOOT button down, and then pressing, and releasing the RESET button.
 
