@@ -97,7 +97,7 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 | <img src="pics/DIY_SMD_100K.jpeg" width="300">     | 100K resistor |   R4 |
 | <img src="pics/DIY_SMD_1M.jpeg" width="300">       | 1M resistor   |   R22 |
 | <img src="pics/DIY_SMD_100n.jpeg" width="300">     | 100n capacitors   | C3,C4,C5,C8 |
-| <img src="pics/DIY_SMD_Schottky.jpeg" width="300"> | Schottky Rectifiers  | L1,L2 |
+| <img src="pics/DIY_SMD_Schottky.jpeg" width="300"> | Schottky Rectifiers. You can also refer to the Leds pic below for rectifiers orientation.  | L1,L2 |
 | <img src="pics/DIY_SMD_beads.jpeg" width="300">    | ferrite beads   | L1,L2 |
 | <img src="pics/DIY_SMD_10u.jpeg" width="300">      | 10u capacitors   | C1,C2 |
 
