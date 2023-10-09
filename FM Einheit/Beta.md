@@ -1,7 +1,7 @@
 ## Beta firmware
 
 **Keep in mind that the purpose of this release is to test functionalities and is subject to frequent change.**
-- Pitch Fine tune : overall functional, but it's still touchy to get back to the exact pot and shifted pot positions.
+- Pitch Fine tune : overall functional, but it a little bit touchy to get back to the exact pot and shifted pot positions. When fine tune is FCCW, overall pitch is raise back to the lower pitch.
 
 ## Downloading and installing the beta firmware
 
