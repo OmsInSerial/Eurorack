@@ -1,7 +1,7 @@
 ## Beta firmware
 
 **Keep in mind that the purpose of this release is to test functionalities and is subject to frequent change.**
-- Pitch Fine tune : overall functional, but it's still touchy to get back to the exact pot and shifted pot positions + some strange behaviors on the first quarter of the potentiometer course. I'm on it!
+- Pitch Fine tune : overall functional, but it's still touchy to get back to the exact pot and shifted pot positions.
 
 ## Downloading and installing the beta firmware
 
