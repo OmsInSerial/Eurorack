@@ -27,7 +27,7 @@ You can check [this video](https://youtu.be/jMld3nkBkAo?t=131) for a more visual
 
 B - Frequency knob (10Hz to 11KHz).
 
-B shifted - Fine tune knob (-1 oct / +1 oct). Default at noon. Available in the VCV Rack module, in upcoming firmware for the hardware module
+B shifted - Fine tune knob (-1 oct / +1 oct). Default at noon. Available in the VCV Rack module, as a beta firmware for the hardware module
 
 C - Operator 1 index (0 to 30) exponential response --> index 1 * (operator 2 based frequency) corresponds to generated sidebands harmonics strength above and under operator 1 based frequency. The more the index, the more audible sidebands.
 
