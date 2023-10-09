@@ -152,7 +152,7 @@ Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob
  <img src="pics/Download_bin.png" width="100">
 
 
-You can also test the beta release which include the pitch fine tune control here. Keep in mind that the purpose of this release is to test functionalities and is subject to frequent change.
+You can also test the beta release which include the pitch fine tune control [here](Beta.md). Keep in mind that the purpose of this release is to test functionalities and is subject to frequent change.
 
 You can use the [ElectroSmith web configurator page](https://electro-smith.github.io/Programmer/) to do so with a last updated Google Chrome.
 
