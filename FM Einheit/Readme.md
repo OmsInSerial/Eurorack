@@ -148,7 +148,7 @@ You can now put the pot knob, and plug your DPSM.
 <img src="pics/DIY_Finished_perspective.jpeg" width="400"> <img src="pics/DIY_Finished_back_2.jpeg" width="400">
 
 ## Downloading and installing the firmware
-Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/d59d7773702f3af148da5864a59d35fe75e9dd92/FM%20Einheit/files/FMEinheit.bin). Click on the Download raw file button.
+Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/d59d7773702f3af148da5864a59d35fe75e9dd92/FM%20Einheit/files/FMEinheit.bin). On the download page, click on the Download raw file button.
  <img src="pics/Download_bin.png" width="100">
 
 
