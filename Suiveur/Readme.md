@@ -63,7 +63,7 @@ Assemble them.
 
 <img src="pics/PinHeader_2.jpeg" width="500">
 
-Place them on the board A.
+Place them on board A.
 
 <img src="pics/PinHeader_3.jpeg" width="500">
 
