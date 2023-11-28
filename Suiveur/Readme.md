@@ -24,7 +24,7 @@ G - Gate stays opened until signal fall down back under the threshold. To set th
 
 ## DIY
 
-Suiveur is avalable as a DIY module as a 2 PCBs + panel set at Tindie or Modulargrid.
+Suiveur is avalaible as a DIY module as a 2 PCBs + panel set at Tindie or Modulargrid.
 
 <img src="pics/DIY_PCB_set.jpeg" width="400">
 
