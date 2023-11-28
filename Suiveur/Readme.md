@@ -33,54 +33,68 @@ Here is the [BOM as a xlsx file](https://github.com/OmsInSerial/Eurorack/blob/80
 
 If you are not confortable with SMD soldering, you can buy the module fully built at Tindie or Modulagrid.
 
-1. SMD parts
+1. SMD parts on A board
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
 | <img src="pics/DIY_SMD_U1_U2.jpeg" width="500">     | TL074       |   U1,U2    |
-| <img src="pics/DIY_SMD_1K.jpeg" width="300">       | 1K resistors  |   R5,R12,R13,R14,R20  |
-| <img src="pics/DIY_SMD_6K8.jpeg" width="300">      | 6K8 resistors |   R16,R17  |
-| <img src="pics/DIY_SMD_10K.jpeg" width="300">      | 10K resistors |   R2,R4,R6,R9,R18 |
-| <img src="pics/DIY_SMD_20K.jpeg" width="300">     | 20K resistor |   R7,R8 |
-| <img src="pics/DIY_SMD_66K5.jpeg" width="300">     | 66K5 resistor |   R19 |
-| <img src="pics/DIY_SMD_100K.jpeg" width="300">       | 100K resistor   |   R1,R3,R10,R11,R15,R21 |
-| <img src="pics/DIY_SMD_100n.jpeg" width="300">     | 100n capacitors   | C3,C4,C5,C6,C7,C8,C10 |
-| <img src="pics/DIY_SMD_1u.jpeg" width="300">     | 1u capacitors   | C9 |
-| <img src="pics/DIY_SMD_1N5819.jpeg" width="300"> | Schottky Rectifiers  | D1,D2 |
-| <img src="pics/DIY_SMD_1N4148.jpeg" width="300"> | Diodes | D3,D4,D5,D6,D8 |
-| <img src="pics/DIY_SMD_4u7.jpeg" width="300">     | 4u7 capacitors   | C1,C2 |
+| <img src="pics/DIY_SMD_1K.jpeg" width="500">       | 1K resistors  |   R5,R12,R13,R14,R20  |
+| <img src="pics/DIY_SMD_6K8.jpeg" width="500">      | 6K8 resistors |   R16,R17  |
+| <img src="pics/DIY_SMD_10K.jpeg" width="500">      | 10K resistors |   R2,R4,R6,R9,R18 |
+| <img src="pics/DIY_SMD_20K.jpeg" width="500">     | 20K resistor |   R7,R8 |
+| <img src="pics/DIY_SMD_66K5.jpeg" width="500">     | 66K5 resistor |   R19 |
+| <img src="pics/DIY_SMD_100K.jpeg" width="500">       | 100K resistor   |   R1,R3,R10,R11,R15,R21 |
+| <img src="pics/DIY_SMD_100n.jpeg" width="500">     | 100n capacitors   | C3,C4,C5,C6,C7,C8,C10 |
+| <img src="pics/DIY_SMD_1u.jpeg" width="500">     | 1u capacitors   | C9 |
+| <img src="pics/DIY_SMD_1N5819.jpeg" width="500"> | Schottky Rectifiers  | D1,D2 |
+| <img src="pics/DIY_SMD_1N4148.jpeg" width="500"> | Diodes | D3,D4,D5,D6,D8 |
+| <img src="pics/DIY_SMD_4u7.jpeg" width="500">     | 4u7 capacitors   | C1,C2 |
 
 2. THD parts
    
-First, place the 4 headers.
+First, place the power header and the 2 headers on the back on A board.
 
-<img src="pics/DIY_Headers_1.jpeg" width="200"> 
+<img src="pics/Power_header.jpeg" width="500"> 
 
-Secure them with the panel and a ruber band as shown here and solder them :
+Prepare the two 1x6 male and female headers and the 1x1 male and female header.
 
-<img src="pics/DIY_Headers_2.jpeg" width="200"> <img src="pics/DIY_Headers_3.jpeg" width="200"> <img src="pics/DIY_Headers_4.jpeg" width="200"> 
+<img src="pics/PinHeader_1.jpeg" width="500">
 
-Get the rubber band off, place the power header J0 and solder it.
+Assemble them.
 
-<img src="pics/DIY_Power_header_1.jpeg" width="200"> <img src="pics/DIY_Power_header_2_1.jpeg" width="200">
+<img src="pics/PinHeader_2.jpeg" width="500">
 
-Place the remaining THD parts on the board as indicated below, **but do not solder anything now!**
+Place them on the A board.
+
+<img src="pics/PinHeader_3.jpeg" width="500">
+
+Get the B board and a ruber band.
+
+<img src="pics/PinHeader_4.jpeg" width="500">
+
+And prepare the "sandwich" !
+
+<img src="pics/PinHeader_5.jpeg" width="400"> <img src="pics/PinHeader_6.jpeg" width="400"> <img src="pics/PinHeader_7.jpeg" width="400">
+
+Solder all the pins. Get the rubber band off, and reopen the "sandwich". Board A is now completed. Focus on the B board ;-)
+
+Place the remaining THD parts on the B board as indicated below, **but do not solder anything now!**
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
-|   <img src="pics/DIY_Jack_2.jpeg" width="400">            | PJ398SM, common ground |   J_1,J_2,J_3,J_4,J_5,J_6,J_7,J_8,J_9,J_10,J_11,J_12    |
-|   <img src="pics/DIY_Pot_1_1.jpeg" width="200">           | B10K, cut the orange part before placing the pot      |   RV1    |
-|   <img src="pics/DIY_Standoff.jpeg" width="300">          | Trimmers, switch, standoff |  RV2,RV3,RV4,RV5,RV6,RV7,RV8,RV9,RV10,RV11,<br>SW1,D17,D18,D20,D21,D25,D26,D27   |
-|   <img src="pics/FM_Einheit_front_PCB.jpeg" width="300">  | Leds |   D17,D18,D20,D21,D25,D26,D27   |
+|   <img src="pics/Jacks.jpeg" width="400">    | PJ398SM, common ground |   J1,J2,J3,J4,J5  |
+|   <img src="pics/DIY_Popt_1_1.jpeg" width="200"> <img src="pics/DIY_Popt_2.jpeg" width="200">  | B100K, cut the orange part before placing the pot   |   RV1, RV2    |
+|   <img src="pics/LED.jpeg" width="400">  | Led     |   D8    |
 
-Once every THD is placed on the board, secure the parts with the panel and screw every nuts. Be carefull with the leds, it's very easy to bend the legs when placing the panel!
+Once every THD is placed on the B board, secure the parts with the panel and screw every nuts. Be carefull with the led, it's very easy to bend the legs when placing the panel!
 
-<img src="pics/DIY_Finished_front.jpeg" width="400"> 
+<img src="pics/Panel_placement.jpeg" width="400"> 
 
-Now return the board + panel and solder the THD parts. and you're done!
-You should get something like that :
+Now return the B board + panel and solder the THD parts.
 
-<img src="pics/DIY_Finished_back.jpeg" width="400">
+<img src="pics/Back_placement.jpeg" width="400">
+
+You are done! Assemble the boards and do some tests.
 
 3. Test
 
@@ -88,47 +102,13 @@ One thing I always do, is to check if there a short with the power circuit. Get 
 
 <img src="pics/DIY_Short_test.jpeg" width="600">
 
-Repeat the test between the ground pins and the positive and negative ones. You shouldn't ear anything!
+Pic above is  not the actual Suiveur board, but you egt the idea. Repeat the test between the ground pins and the positive and negative ones. You shouldn't ear anything!
 
 4. Finishing
    
-You can now put the pot knob, and plug your DPSM.
-
-<img src="pics/DIY_Finished_perspective.jpeg" width="400"> <img src="pics/DIY_Finished_back_2.jpeg" width="400">
-
-## Downloading and installing the firmware
-Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/d59d7773702f3af148da5864a59d35fe75e9dd92/FM%20Einheit/files/FMEinheit.bin). On the download page, click on the Download raw file button.
- <img src="pics/Download_bin.png" width="100">
-
-
-You can also test the beta release which include the pitch fine tune control [here](Beta.md). Keep in mind that the purpose of this release is to test functionalities and is subject to frequent change.
-
-You can use the [ElectroSmith web configurator page](https://electro-smith.github.io/Programmer/) to do so with a last updated Google Chrome.
-
-Follow this procedure:
-
-1. Connect the Daisy to the Computer with a micro USB cable.
-
-2. Enter the system bootloader by holding the BOOT button down, and then pressing, and releasing the RESET button.
-
-3. Click the Connect button at the top of the page.
-
-4. Select, "DFU in FS Mode" and click connexion.
-
-   <img src="pics/DPSMconnect.png" width="300">
-
-5. Click the Choose File button, and select the .bin file you downloaded.
-
-6. Click Program, and wait for the progress bar to finish.
-
-   <img src="pics/FlashingProcess.png" width="500">
-
-Now, if the program does not start immediatley, pressing RESET on the Daisy will cause the program to start running.
-
-Requirements : 
-In order to use this, you will need: an up-to-date version of Chrome, at least version 61 or newer
+You can now put the pot knob!
 
 That's all! :+1:
 
-All other details about FM Einheit are available here: [https://omsinserial.com](https://www.omsinserial.com/p/fm-einheit.html)
+All other details about FM Einheit are available here: [https://omsinserial.com](https://www.omsinserial.com/p/blog-page_18.html)
 
