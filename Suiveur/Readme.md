@@ -37,7 +37,7 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
-| <img src="pics/DIY_SMD_U1_U2.jpeg" width="750">     | TL074       |   U1,U2    |
+| <img src="pics/DIY_SMD_U1_U2.jpeg" width="500">     | TL074       |   U1,U2    |
 | <img src="pics/DIY_SMD_1K.jpeg" width="300">       | 1K resistors  |   R5,R12,R13,R14,R20  |
 | <img src="pics/DIY_SMD_6K8.jpeg" width="300">      | 6K8 resistors |   R16,R17  |
 | <img src="pics/DIY_SMD_10K.jpeg" width="300">      | 10K resistors |   R2,R4,R6,R9,R18 |
