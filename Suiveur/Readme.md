@@ -4,7 +4,7 @@ Suiveur is a simple envelope follower.
 Plug an input signal, and you'll get its amplitude envelope, its inverted and a gate output driven by a treshold.
 
 
-<img src="pics/Suiveur_panel.png" width="300" height="315">
+<img src="pics/Suiveur_panel.png" width="315" height="245">
 
 ## Controls
 
