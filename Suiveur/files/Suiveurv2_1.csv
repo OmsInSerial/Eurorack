@@ -1,0 +1,29 @@
+"Suiveur, v2.1",,,,,,,
+Index,Qty,Description,Specs,Value,Package,Ref. Mouser,References
+SMT parts,,,,,,,
+"R5,R12,R13,R14,R20",5,Resistor,"0.1%, 1/4W, Thin film",1K,0603,667-ERJ-S03F1001V,
+"R16,R17",2,Resistor,"0.1%, 1/4W, Thin film",6K8,0603,667-ERA-3AEB682V,
+"R2,R4,R6,R9,R18",5,Resistor,"0.1%, 1/4W, Thin film",10K,0603,667-ERA-3AEB103V,
+"R7,R8",2,Resistor,"0.1%, 1/4W, Thin film",20K,0603,667-ERA-3ARB203V,
+R19,1,Resistor,"0.1%, 1/4W, Thin film",66K5,0603,667-ERA-3AEB6652V,
+"R1,R3,R10,R11,R15,21",6,Resistor,"0.1%, 1/4W, Thin film",100k,0603,667-ERA-3VEB1003V,
+"C3,C4,C5,C6,C7,C8,C10",7,"Capacitor, ceramic",>= 16V,100n,0603,81-GCM188R71H104JA7D,
+"C1, C2",2,"Capacitor, electrolytic",>= 25V,4.7u,Panasonic (4mm dia),667-EEE-HB1E4R7R,
+C9,1,"Capacitor, ceramic",>= 16V,1u,0603,81-GCG188R71C105KA1D,
+"D1, D2",2,1N5819 diode,,,SOD123,621-1N5819HW-F,
+"D3,D4,D5,D6,D8",5,1N4148,,,SOD123,621-1N4148W-F,
+"U1, U2",2,TL074 dual op-amp,,,SOIC-14,595-TL074CD,
+THT parts,,,,,,,
+"J1,J2,J3,J4,J5",5,Vertical jack connector,PJ-301-M-12,,,,https://www.banzaimusic.com/banzai-banzaiconn-3-5mm.html
+D7,1,"LED 2 terminals, 3.0mm",2 terminals,,,828-OVLAW4CB7,
+J8,1,"2x5 male header, 2.54mm pitch",,,,649-67996-410HLF,
+"RV1, RV2",2,Potentiometer 100K lin T18,"Alpha, Alps",,,,http://www.banzaimusic.com/Alpha-9mm-split-shaft-100k-lin.html
+"J6, J7",2,PinHeader_1x02_P2.54mm_Vertical,male,,,855-M20-9750246,
+"J9, J10",2,PinHeader_1x06_P2.54mm_Vertical,male,,,437-8008006410001101,
+"J11, J12",2,PinHeader_1x06_P2.54mm_Vertical,female,,,437-3108712041001101,
+J13,1,PinHeader_1x01_P2.54mm_Vertical,male,,,,
+J14,1,PinHeader_1x01_P2.54mm_Vertical,female,,,,
+,2,Micro knob,Black,,,,https://www.thonk.co.uk/shop/micro-knobs/
+,2,Bananuts,Black,,,,https://www.thonk.co.uk/shop/befaco-potentiometer-bananuts/
+PCB specifications,,,,,,,
+PCB set,1,,,,,,
