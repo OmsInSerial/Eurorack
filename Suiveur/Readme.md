@@ -28,7 +28,7 @@ Suiveur is avalable as a DIY module as a 2 PCBs + panel set at Tindie or Modular
 
 <img src="pics/DIY_PCB_set.jpeg" width="400">
 
-Here is the [BOM as a xlsx file](https://github.com/OmsInSerial/Eurorack/blob/4a29439237996cb19d1aecce53c95c5186f58875/FM%20Einheit/files/FMEinheitv1_2.xlsx) or [as a csv file](https://github.com/OmsInSerial/Eurorack/blob/4a29439237996cb19d1aecce53c95c5186f58875/FM%20Einheit/files/FMEinheitv1_2.csv) to source the parts with Mouser references for SMD/THT components and other providers (Thonk, Banzaï...). Click on the Download raw file button.
+Here is the [BOM as a xlsx file](https://github.com/OmsInSerial/Eurorack/blob/803f410a7a337096858b008e448d7aa0b17eb168/Suiveur/files/Suiveurv2_1.xlsx) or [as a csv file](https://github.com/OmsInSerial/Eurorack/blob/803f410a7a337096858b008e448d7aa0b17eb168/Suiveur/files/Suiveurv2_1.csv) to source the parts with Mouser references for SMD/THT components and other providers (Thonk, Banzaï...). Click on the Download raw file button.
  <img src="pics/Download_bin.png" width="100">
 
 If you are not confortable with SMD soldering, you can buy the module fully built at Tindie or Modulagrid.
