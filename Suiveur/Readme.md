@@ -21,6 +21,8 @@ F - Threshold pot sets the sensitivity.
 
 G - Gate stays opened until signal fall down back under the threshold. To set the threshold, first turn the threshold knob fully CCW. Then turn it CW until you trig the gate. Above this point, the more you turn CW, the longer the gate stays opened.
 
+You can check [this video](https://youtu.be/eaC1m-kwfSY) for a more visual explanation.
+
 ## DIY
 
 Suiveur is avalaible as a DIY module, 2 PCBs + PCB panel set at Tindie or Modulargrid.
