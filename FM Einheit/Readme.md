@@ -74,7 +74,7 @@ X - Audio output, mix of both operator (J)
 
 ## DIY
 
-FM Einheit is avalable as a DIY module as a PCB + panel set (Daisy Patch SM not included) at Tindie or Modulargrid..
+FM Einheit is avalable as a DIY module as a PCB + PCB panel set (Daisy Patch SM not included) at Tindie or Modulargrid..
 
 <img src="pics/DIY_PCB_set.jpeg" width="400">
 
@@ -135,7 +135,7 @@ You should get something like that :
 
 3. Test
 
-One thing I always do, is to check if there a short with the power circuit. Get a multimeter, turn the dial to Continuity Test mode, place one lead to the negative pins and the other one to the positives as shown below. You shouldn't ear any BIP, if you do, it means you've a short somewhere on the board ...
+One thing I always do, is to check if there is a short with the power circuit. Get a multimeter, turn the dial to Continuity Test mode, place one lead to the negative pins and the other one to the positives as shown below. You shouldn't ear any BIP, if you do, it means you've a short somewhere on the board ...
 
 <img src="pics/DIY_Short_test.jpeg" width="600">
 
