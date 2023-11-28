@@ -51,7 +51,7 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 2. THD parts
    
-First, place the power header and the 2 headers on the back on board A.
+First, place the power header and the 2 headers on the back on board A and solder them.
 
 <img src="pics/Power_header.jpeg" width="500"> 
 
