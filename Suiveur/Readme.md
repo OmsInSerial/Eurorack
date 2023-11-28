@@ -46,8 +46,8 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 | <img src="pics/DIY_SMD_100K.jpeg" width="300">       | 100K resistor   |   R1,R3,R10,R11,R15,R21 |
 | <img src="pics/DIY_SMD_100n.jpeg" width="300">     | 100n capacitors   | C3,C4,C5,C6,C7,C8,C10 |
 | <img src="pics/DIY_SMD_1u.jpeg" width="300">     | 1u capacitors   | C9 |
-| <img src="pics/DIY_SMD_1N5819.jpeg" width="300"> | Schottky Rectifiers. You can also refer to the Leds pic below for rectifiers orientation.  | D1,D2 |
-| <img src="pics/DIY_SMD_1N4148.jpeg" width="300"> | Diodes. You can also refer to the Leds pic below for rectifiers orientation.  | D3,D4,D5,D6,D8 |
+| <img src="pics/DIY_SMD_1N5819.jpeg" width="300"> | Schottky Rectifiers  | D1,D2 |
+| <img src="pics/DIY_SMD_1N4148.jpeg" width="300"> | Diodes | D3,D4,D5,D6,D8 |
 | <img src="pics/DIY_SMD_4u7.jpeg" width="300">     | 4u7 capacitors   | C1,C2 |
 
 2. THD parts
