@@ -3,7 +3,6 @@
 Suiveur is a simple envelope follower.
 Plug an input signal, and you'll get its amplitude envelope, its inverted and a gate output driven by a treshold.
 
-
 <img src="pics/Suiveur_panel.png" width="315" height="245">
 
 ## Controls
@@ -24,7 +23,7 @@ G - Gate stays opened until signal fall down back under the threshold. To set th
 
 ## DIY
 
-Suiveur is avalaible as a DIY module as a 2 PCBs + panel set at Tindie or Modulargrid.
+Suiveur is avalaible as a DIY module, 2 PCBs + panel set at Tindie or Modulargrid.
 
 <img src="pics/DIY_PCB_set.jpeg" width="400">
 
@@ -33,7 +32,7 @@ Here is the [BOM as a xlsx file](https://github.com/OmsInSerial/Eurorack/blob/80
 
 If you are not confortable with SMD soldering, you can buy the module fully built at Tindie or Modulagrid.
 
-1. SMD parts on A board
+1. SMD parts on board A
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
@@ -52,7 +51,7 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 2. THD parts
    
-First, place the power header and the 2 headers on the back on A board.
+First, place the power header and the 2 headers on the back on board A.
 
 <img src="pics/Power_header.jpeg" width="500"> 
 
@@ -64,7 +63,7 @@ Assemble them.
 
 <img src="pics/PinHeader_2.jpeg" width="500">
 
-Place them on the A board.
+Place them on the board A.
 
 <img src="pics/PinHeader_3.jpeg" width="500">
 
@@ -76,9 +75,9 @@ And prepare the "sandwich" !
 
 <img src="pics/PinHeader_5.jpeg" width="400"> <img src="pics/PinHeader_6.jpeg" width="400"> <img src="pics/PinHeader_7.jpeg" width="400">
 
-Solder all the pins. Get the rubber band off, and reopen the "sandwich". Board A is now completed. Focus on the B board ;-)
+Solder all the pins. Get the rubber band off, and reopen the "sandwich". Board A is now completed. Focus on board B ;-)
 
-Place the remaining THD parts on the B board as indicated below, **but do not solder anything now!**
+Place the remaining THD parts on board B as indicated below, **but do not solder anything now!**
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
@@ -86,11 +85,11 @@ Place the remaining THD parts on the B board as indicated below, **but do not so
 |   <img src="pics/DIY_Popt_1_1.jpeg" width="200"> <img src="pics/DIY_Popt_2.jpeg" width="200">  | B100K, cut the orange part before placing the pot   |   RV1, RV2    |
 |   <img src="pics/LED.jpeg" width="400">  | Led     |   D8    |
 
-Once every THD is placed on the B board, secure the parts with the panel and screw every nuts. Be carefull with the led, it's very easy to bend the legs when placing the panel!
+Once every THD is placed on board B, secure the parts with the panel and screw every nuts. Be carefull with the led, it's very easy to bend the legs when placing the panel!
 
 <img src="pics/Panel_placement.jpeg" width="400"> 
 
-Now return the B board + panel and solder the THD parts.
+Now return board B + panel and solder THD parts.
 
 <img src="pics/Back_placement.jpeg" width="400">
 
@@ -98,17 +97,17 @@ You are done! Assemble the boards and do some tests.
 
 3. Test
 
-One thing I always do, is to check if there a short with the power circuit. Get a multimeter, turn the dial to Continuity Test mode, place one lead to the negative pins and the other one to the positives as shown below. You shouldn't ear any BIP, if you do, it means you've a short somewhere on the board ...
+One thing I always do, is to check if there is a short with the power circuit. Get a multimeter, turn the dial to Continuity Test mode, place one lead to the negative pins and the other one to the positives as shown below. You shouldn't ear any BIP, if you do, it means you've a short somewhere on the board ...
 
 <img src="pics/DIY_Short_test.jpeg" width="600">
 
-Pic above is  not the actual Suiveur board, but you egt the idea. Repeat the test between the ground pins and the positive and negative ones. You shouldn't ear anything!
+Pic above is  not the actual Suiveur board, but you get the idea. Repeat the test between the ground pins and the positive and negative ones. You shouldn't ear anything!
 
 4. Finishing
    
-You can now put the pot knob!
+You can now put the pots knobs!
 
 That's all! :+1:
 
-All other details about FM Einheit are available here: [https://omsinserial.com](https://www.omsinserial.com/p/blog-page_18.html)
+All other details about Suiveur are available here: [https://omsinserial.com](https://www.omsinserial.com/p/blog-page_18.html)
 
