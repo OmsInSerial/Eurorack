@@ -1,7 +1,7 @@
 # Suiveur eurorack module
 
 Suiveur is a simple envelope follower.
-Plgu an input signal, and you'll get its amplitude envelope, its inverted and a gate output driven by a treshold.
+Plug an input signal, and you'll get its amplitude envelope, its inverted and a gate output driven by a treshold.
 
 
 <img src="pics/Suiveur_panel.png" width="300" height="315">
