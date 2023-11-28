@@ -19,8 +19,8 @@ D7,1,"LED 2 terminals, 3.0mm",2 terminals,,,828-OVLAW4CB7,
 J8,1,"2x5 male header, 2.54mm pitch",,,,649-67996-410HLF,
 "RV1, RV2",2,Potentiometer 100K lin T18,"Alpha, Alps",,,,http://www.banzaimusic.com/Alpha-9mm-split-shaft-100k-lin.html
 "J6, J7",2,PinHeader_1x02_P2.54mm_Vertical,male,,,855-M20-9750246,
-"J9, J10",2,PinHeader_1x06_P2.54mm_Vertical,male,,,437-8008006410001101, 1x64
-"J11, J12",2,PinHeader_1x06_P2.54mm_Vertical,female,,,437-3108712041001101, 1x64
+"J9, J10",2,PinHeader_1x06_P2.54mm_Vertical,male,,,437-8008006410001101, 1 row, 64 pins
+"J11, J12",2,PinHeader_1x06_P2.54mm_Vertical,female,,,437-3108712041001101, 1 row, 64 pins
 J13,1,PinHeader_1x01_P2.54mm_Vertical,male,,,,
 J14,1,PinHeader_1x01_P2.54mm_Vertical,female,,,,
 ,2,Micro knob,Black,,,,https://www.thonk.co.uk/shop/micro-knobs/
