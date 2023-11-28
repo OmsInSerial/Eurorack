@@ -11,10 +11,15 @@ Plug an input signal, and you'll get its amplitude envelope, its inverted and a 
 <img src="pics/SuiveurControls.png" width="300">
 
 A, B - In1 (AC coupled) and In2 (DC coupled)
+
 C - In1 and In2 are added to produce one envelope Env
+
 D - Inverted one -Env = -C. Incoming signal levels have to be controlled with an external atenuverter as Draag for instance.
+
 E - Smooth pot sets the overall envelope shape.
+
 F - Threshold pot sets the sensitivity. 
+
 G - Gate stays opened until signal fall down back under the threshold. To set the threshold, first turn the threshold knob fully CCW. Then turn it CW until you trig the gate. Above this point, the more you turn CW, the longer the gate stays opened.
 
 ## DIY
