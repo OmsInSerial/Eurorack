@@ -37,19 +37,18 @@ If you are not confortable with SMD soldering, you can buy the module fully buil
 
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
-| <img src="pics/DIY_SMD_U1U2.jpeg" width="300">     | CD4051        |   U1,U2    |
-| <img src="pics/DIY_SMD_U3.jpeg" width="300">       | CD4021        |   U3    |
-| <img src="pics/DIY_SMD_U6.jpeg" width="300">       | PCA9685PW     |   U6  |
-| <img src="pics/DIY_SMD_D30.jpeg" width="300">      | BAT54SW       |   D30  |
+| <img src="pics/DIY_SMD_U1_U2.jpeg" width="300">     | TL074       |   U1,U2    |
 | <img src="pics/DIY_SMD_1K.jpeg" width="300">       | 1K resistors  |   R1,R44,R45,R48,R49,R50,R51,R52,R53,R54,<br>R55,R56,R57,R58,R59  |
-| <img src="pics/DIY_SMD_4K7.jpeg" width="300">      | 4K7 resistors |   R79,R80  |
+| <img src="pics/DIY_SMD_6K8.jpeg" width="300">      | 6K8 resistors |   R79,R80  |
 | <img src="pics/DIY_SMD_10K.jpeg" width="300">      | 10K resistors |   R3,R9,R11,R12,R13,R19,R20,R21 |
-| <img src="pics/DIY_SMD_100K.jpeg" width="300">     | 100K resistor |   R4 |
-| <img src="pics/DIY_SMD_1M.jpeg" width="300">       | 1M resistor   |   R22 |
+| <img src="pics/DIY_SMD_20K.jpeg" width="300">     | 20K resistor |   R4 |
+| <img src="pics/DIY_SMD_66K5.jpeg" width="300">     | 66K5 resistor |   R4 |
+| <img src="pics/DIY_SMD_100K.jpeg" width="300">       | 100K resistor   |   R22 |
 | <img src="pics/DIY_SMD_100n.jpeg" width="300">     | 100n capacitors   | C3,C4,C5,C8 |
-| <img src="pics/DIY_SMD_Schottky.jpeg" width="300"> | Schottky Rectifiers. You can also refer to the Leds pic below for rectifiers orientation.  | L1,L2 |
-| <img src="pics/DIY_SMD_beads.jpeg" width="300">    | ferrite beads   | L1,L2 |
-| <img src="pics/DIY_SMD_10u.jpeg" width="300">      | 10u capacitors   | C1,C2 |
+| <img src="pics/DIY_SMD_1u.jpeg" width="300">     | 1u capacitors   | C3,C4,C5,C8 |
+| <img src="pics/DIY_SMD_1N5819.jpeg" width="300"> | Schottky Rectifiers. You can also refer to the Leds pic below for rectifiers orientation.  | L1,L2 |
+| <img src="pics/DIY_SMD_1N4148.jpeg" width="300"> | Diodes. You can also refer to the Leds pic below for rectifiers orientation.  | L1,L2 |
+| <img src="pics/DIY_SMD_4u7.jpeg" width="300">     | 4u7 capacitors   | C3,C4,C5,C8 |
 
 2. THD parts
    
