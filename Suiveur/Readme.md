@@ -84,7 +84,7 @@ Place the remaining THD parts on board B as indicated below, **but do not solder
 | Placement         | Description   |Index|
 | ------------------| ------------- |--------|
 |   <img src="pics/Jacks.jpeg" width="400">    | PJ398SM, common ground |   J1,J2,J3,J4,J5  |
-|   <img src="pics/DIY_Pot_1_1.jpeg" width="200"> <img src="pics/DIY_Pot_2.jpeg" width="200">  | B100K, cut the orange part before placing the pot if exist   |   RV1, RV2    |
+|   <img src="pics/DIY_Pot_1_1.jpeg" width="200"> <img src="pics/DIY_Pot_2.jpeg" width="200">  | B100K, cut the orange part before placing the pot if exists   |   RV1, RV2    |
 |   <img src="pics/LED.jpeg" width="400">  | Led     |   D8    |
 
 Once every THD is placed on board B, secure the parts with the panel and screw every nuts. Be carefull with the led, it's very easy to bend the legs when placing the panel!
