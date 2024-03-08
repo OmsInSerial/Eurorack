@@ -16,9 +16,6 @@ All details on my web page [Oms in serial](https://omsinserial.com)
 Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/64045e767abf4f50f5bf27b4e83d277b7fbf8f35/FX%20Einheit/files/fxeinheit.bin). On the download page, click on the Download raw file button.
  <img src="pics/Download_bin.png" width="100">
 
-
-You can also test the beta release which include the pitch fine tune control [here](Beta.md). Keep in mind that the purpose of this release is to test functionalities and is subject to frequent change.
-
 You can use the [ElectroSmith web configurator page](https://electro-smith.github.io/Programmer/) to do so with a last updated Google Chrome.
 
 Follow this procedure:
