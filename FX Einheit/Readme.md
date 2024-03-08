@@ -9,7 +9,7 @@ This module is developed under macOS with the help of [Erb Eurorack-Blocks](http
 [Erb Eurorack-Blocks](https://github.com/ohmtech-rdi/eurorack-blocks) allows to test modules in the VCV Rack environment before going to the next stage of development.
 
 ## Controls
-All details on my web page [Oms in serial](https://omsinserial.com)
+All details on my web page [https://omsinserial.com](https://www.omsinserial.com/p/fx-einheit.html))
 
 
 ## Downloading and installing the firmware
@@ -43,5 +43,5 @@ In order to use this, you will need: an up-to-date version of Chrome, at least v
 
 That's all! :+1:
 
-All other details about FM Einheit are available here: [https://omsinserial.com](https://www.omsinserial.com/p/fm-einheit.html)
+All other details about FX Einheit are available here: [https://omsinserial.com](https://www.omsinserial.com/p/fx-einheit.html)
 Hello world
