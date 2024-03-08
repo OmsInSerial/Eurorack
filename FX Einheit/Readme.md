@@ -13,7 +13,7 @@ All details on my web page [Oms in serial](https://omsinserial.com)
 
 
 ## Downloading and installing the firmware
-Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/d59d7773702f3af148da5864a59d35fe75e9dd92/FM%20Einheit/files/FMEinheit.bin). On the download page, click on the Download raw file button.
+Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/64045e767abf4f50f5bf27b4e83d277b7fbf8f35/FX%20Einheit/files/fxeinheit.bin). On the download page, click on the Download raw file button.
  <img src="pics/Download_bin.png" width="100">
 
 
