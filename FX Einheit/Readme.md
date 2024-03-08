@@ -2,7 +2,7 @@
 
 FX Einheit is a stereo multi effects module based on Eurorack-Blocks framework + ElectroSmith Daisy Patch SubModule with a reverb, a delay and a multimode filter. Each of the 3 sections can process and output the incoming signal independently, but output from each section can be routed to another effect input. For instance, the delay can be routed to the reverb, which can be routed to the filter.
 
-<img src="pics/DSC00092.JPG" width="300">
+<img src="pics/DSC00092.JPG" width="800">
 
 This module is developed under macOS with the help of [Erb Eurorack-Blocks](https://github.com/ohmtech-rdi/eurorack-blocks) framework + ElectroSmith Daisy Patch SubModule.
 
