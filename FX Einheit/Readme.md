@@ -7,11 +7,9 @@ FX Einheit is a stereo multi effects module based on Eurorack-Blocks framework +
 This module is developed under macOS with the help of [Erb Eurorack-Blocks](https://github.com/ohmtech-rdi/eurorack-blocks) framework + ElectroSmith Daisy Patch SubModule.
 
 [Erb Eurorack-Blocks](https://github.com/ohmtech-rdi/eurorack-blocks) allows to test modules in the VCV Rack environment before going to the next stage of development.
-From idea to final hardware module, via VCV:
 
 ## Controls
-
-
+All details on my web page [Oms in serial](https://omsinserial.com)
 
 
 ## Downloading and installing the firmware
