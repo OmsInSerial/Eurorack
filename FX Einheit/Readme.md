@@ -16,6 +16,10 @@ All details on my web page [https://omsinserial.com](https://www.omsinserial.com
 Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/64045e767abf4f50f5bf27b4e83d277b7fbf8f35/FX%20Einheit/files/fxeinheit.bin). On the download page, click on the Download raw file button.
  <img src="pics/Download_bin.png" width="100">
 
+Current version is V1.2-29-03-24
+- Fixed leaking signal on the stereo filter left channel from the right one.
+- Routing algorithm improvement
+
 You can use the [ElectroSmith web configurator page](https://electro-smith.github.io/Programmer/) to do so with a last updated Google Chrome.
 
 Follow this procedure:
