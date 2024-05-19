@@ -16,7 +16,11 @@ All details on my web page [https://omsinserial.com](https://www.omsinserial.com
 Download the latest firmware [here](https://github.com/OmsInSerial/Eurorack/blob/64045e767abf4f50f5bf27b4e83d277b7fbf8f35/FX%20Einheit/files/fxeinheit.bin). On the download page, click on the Download raw file button.
  <img src="pics/Download_bin.png" width="100">
 
-Current version is V1.3-28-04-24 Thanks to Mark Crosbie aka SynthDad (https://www.youtube.com/synthdad) for the suggestions
+Current version is V1.4-19-05-24
+- Routings, Rev and Qtz states are preserved between power cycles. You can start where you left off.
+- New alternate CV destination for the stereo filter. You can now animate the filter stereo field with the Res CV input.
+
+V1.3-28-04-24 Thanks to Mark Crosbie aka SynthDad (https://www.youtube.com/synthdad) for the suggestions
 - Damping control behavior is inverted. Now at 0 (FCCW) there is no damping, at 1 (FCW) full damping. It makes more sens to act like this.
 - To ease readability, routing Leds are now blinking instead of staying on when routing is engaged.
 - For the same reason, CV alternate assignement Leds will blink twice the speed of routing Leds.
